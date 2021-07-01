@@ -14,5 +14,7 @@
             "email": "baraichgurvir2007@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php" : ">=7.4",
+    }
 }
